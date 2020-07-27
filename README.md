@@ -2,7 +2,7 @@
 
 If you use this dataset, please cite our paper:
 
-@proceedings{DBLP:conf/socinfo/2019,
+@proceedings{FacebookAds2020,
   author    = {Arthur Capozzi and
               Gianmarco De Francisci Morales and
               Yelena Mejova and
