@@ -10,7 +10,7 @@ A. Capozzi, G. D. F. Morales, Y. Mejova, C. Monti, A. Panisson, and D. Paolotti,
               Gianmarco De Francisci Morales and
               Yelena Mejova and
               Corrado Monti and
-              Andr'{e} Panisson and
+              Andr\'{e} Panisson and
               Daniela Paolotti},
   title     = {{Facebook Ads: Politics of Migration in Italy}},
   keywords  = {Targeted advertising, Social media, Politics, Immigration},
